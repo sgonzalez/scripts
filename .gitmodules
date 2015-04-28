@@ -1,3 +1,6 @@
 [submodule "external/k"]
 	path = external/k
 	url = https://github.com/supercrabtree/k.git
+[submodule "dotzsh"]
+	path = dotzsh
+	url = https://github.com/sgonzalez/dotzsh.git
