@@ -1,0 +1,3 @@
+[submodule "external/k"]
+	path = external/k
+	url = https://github.com/supercrabtree/k.git
