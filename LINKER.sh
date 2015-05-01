@@ -1,4 +1,7 @@
-# you should run this to get all the correct symlinks to config files and stuff
+#!/bin/bash
+
+# You should run this to get all the correct symlinks to config files and stuff
+# Note: this assumes that this "scripts" repository is placed in ~/Dropbox/
 
 ln -s ~/Dropbox/scripts/utils/power.sh /usr/local/bin/power.sh
 
