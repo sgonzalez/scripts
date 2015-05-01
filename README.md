@@ -8,4 +8,4 @@ Since my zshrc is pretty big, it is in its own repository. It has been added as 
 
 To use these scripts and configs, you just need to run ```LINKER.sh```. This script creates symbolic links to everything in their proper location (assuming the the repository is contained in ```~/Dropbox/```).
 
-Everything would work on Mac, Linux, and hopefully any *nix / POSIX-compliant system.
+Everything would work on OS X, Linux, and hopefully any *nix / POSIX-compliant system. A notable exception is ```power.sh```, it has been made exclusively for OS X.
