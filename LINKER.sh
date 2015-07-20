@@ -4,6 +4,7 @@
 # Note: this assumes that this "scripts" repository is placed in ~/Dropbox/
 
 ln -s ~/Dropbox/scripts/utils/power.sh /usr/local/bin/power.sh
+ln -s ~/Dropbox/scripts/utils/cleanlatex.sh /usr/local/bin/cleanlatex.sh
 
 ln -s ~/Dropbox/scripts/dotzsh/zshrc ~/.zshrc
 ln -s ~/Dropbox/scripts/dotzsh/ ~/.zsh
